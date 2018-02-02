@@ -16,6 +16,10 @@ div#wall div#tag-3.slick {
   display: none;
 }
 
-body div#wall div:nth-child(5) div.parent div#tag-5 div.slick/*[class$="wicked"]*/  {
+div#wall div:nth-child(5) div.parent div#tag-5 div.slick/*[class$="wicked"]*/  {
+  display: none;
+}
+
+{
   display: none;
 }
